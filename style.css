@@ -1,0 +1,27 @@
+#wrapper{
+    border:5px solid rgb(150, 141, 141);
+    position: fixed;
+    bottom:100px;
+    z-index:1000;
+    right:100px;
+    background-color:bisque;
+    
+}
+#number1,#number2{ 
+    padding:5px;
+border-radius:5px;}
+
+#result{
+border: 5px solid red;
+height:50px;
+width:70px;
+}
+#btn_add{
+border-radius: 5px;
+border: 5px solid red;
+}
+#btn_add:hover{
+background-color: blueviolet;
+color:white;
+}
+#map { height: 100vh; }
